@@ -1,0 +1,9 @@
+1. Convergenta simpla
+lim n tinde la inf din fn(x)
+daca limita exista atunci fn conv simpla pe f, f(x) = rez la limita
+
+2. Convergenta uniforma
+|fn(x) - f(x)|
+
+sirul este mai mic decat un sir care tinde la 0
+deci fn tinde uniform la 0 => fn e convergent uniforma

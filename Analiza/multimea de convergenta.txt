@@ -1,0 +1,13 @@
+se da seria
+se fac prelucrari ca sa fie de forma Suma an * y^n
+se calculeaza R (raza de conv)
+R > 0 
+Seria este absolut conv pt oricare y apartine (-R, R) si divergenta
+pt oricare y aparatine (-inf, -R) U (R, +inf)
+
+I. y = -R (serie alternanta)
+e de forma suma (-1)^n * bn
+
+seria este conv daca bn e descrescator si lim la inf din bn -> 0
+
+II. y = R 

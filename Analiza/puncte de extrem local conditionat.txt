@@ -1,0 +1,16 @@
+f(x,y)
+legatura => g(x)
+
+L(x, y, lambda) = f(x,y) + lambda*g(x)
+
+L'x = 0
+L'y = 0
+L'lambda = 0
+afli x,y,lambda
+Obti puncte A si B care sunt puncte stationare conditionate
+
+Pt fiecare punct se calculeaza diferentiala de ordin 2
+
+d^2 L(a,b) = L''x^2(a,b)(dx)^2 + L''y^2(a,b)(dy)^2 + 2L''xy(a,b)dxdy
+< 0 => maxim
+> 0 => minim

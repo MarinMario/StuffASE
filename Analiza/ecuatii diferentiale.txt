@@ -1,0 +1,6 @@
+
+y' - 5xy = x^3
+
+
+I. Ecuatia omogena
+y' - 5xy = 0
